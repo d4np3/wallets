@@ -52,6 +52,14 @@ The application interfaces with Ethereum and all transaction details are shown.
 </p>
 <br />
 
+## Challenges
+
+This is all running on Ubuntu, so I had a number of challenges with getting the starter code working.
+
+I had to import some extra modules, change some called functions as well as roll back to web3 5.24 as web3 6 wouldn't work at all.
+
+Interested learning process once again highlighting how important environment set up is.
+
 ## Back to Fintech Home
 
 * [Fintech Bootcamp Home](https://github.com/d4np3/fintech)
